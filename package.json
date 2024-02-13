@@ -1,0 +1,19 @@
+{
+  "name": "video-call-application-webrtc",
+  "version": "1.0.0",
+  "description": "A video calling application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nishant-Kumar-Sah/Video-Calling-Application.git"
+  },
+  "author": "Nishant Sah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nishant-Kumar-Sah/Video-Calling-Application/issues"
+  },
+  "homepage": "https://github.com/Nishant-Kumar-Sah/Video-Calling-Application#readme"
+}
